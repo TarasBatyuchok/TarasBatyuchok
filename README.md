@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
+![revan_idle2](https://user-images.githubusercontent.com/57962357/215262121-b970501a-c3d8-4a63-92b5-8bc00215e4d4.gif)
 
 
 ## 🌐 Socials:
