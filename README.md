@@ -1,6 +1,7 @@
 ### Hi there 👋
 🖖I’m Taras, a Front-end developer from Ukraine <br>🤖Fun fact: Math.min() > Math.max()
-![revan_idle2](https://user-images.githubusercontent.com/57962357/215262121-b970501a-c3d8-4a63-92b5-8bc00215e4d4.gif)
+![giphy](https://user-images.githubusercontent.com/57962357/215262406-a594f692-bbd3-473b-b4d4-58ad84e32e21.gif)
+
 <!--
 **TarasBatyuchok/TarasBatyuchok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
