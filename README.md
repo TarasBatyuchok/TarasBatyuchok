@@ -11,6 +11,18 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=TarasBatyuchok&theme=radical&hide_border=false&include_all_commits=false&count_private=false) ![6a418372f8b6d2744be2a8a6a20a1229 (2)](https://user-images.githubusercontent.com/57962357/215264576-03510ed5-fd37-486e-924f-74bf19bf77ff.gif)
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 
 
 
