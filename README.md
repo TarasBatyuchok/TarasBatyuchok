@@ -1,7 +1,4 @@
 ### Hi there 👋
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-
-
 🖖I’m Taras, a Front-end developer from Ukraine <br>🤖Fun fact: Math.min() > Math.max() = true
 
 [![](https://visitcount.itsvg.in/api?id=TarasBatyuchok&icon=8&color=10)](https://visitcount.itsvg.in)
