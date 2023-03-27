@@ -2,8 +2,7 @@
 🖖I’m Taras, a Front-end developer from Ukraine <br>🤖Fun fact: Math.min() > Math.max() = true
 
 [![](https://visitcount.itsvg.in/api?id=TarasBatyuchok&icon=4&color=1)](https://visitcount.itsvg.in)
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/taras.batyuchok) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/starscript/) 
 
