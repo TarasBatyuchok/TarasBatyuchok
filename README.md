@@ -4,7 +4,8 @@
 
 🖖I’m Taras, a Front-end developer from Ukraine <br>🤖Fun fact: Math.min() > Math.max() = true
 
-[![](https://visitcount.itsvg.in/api?id=TarasBatyuchok&icon=7&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=TarasBatyuchok&icon=8&color=10)](https://visitcount.itsvg.in)
+
 
 ### 🌐 Socials:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
