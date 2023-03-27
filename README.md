@@ -3,6 +3,7 @@
 
 
 🖖I’m Taras, a Front-end developer from Ukraine <br>🤖Fun fact: Math.min() > Math.max() = true
+
 [![](https://visitcount.itsvg.in/api?id=TarasBatyuchok&icon=4&color=1)](https://visitcount.itsvg.in)
 
 ### 🌐 Socials:
