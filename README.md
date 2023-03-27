@@ -15,7 +15,7 @@
 
 ![](https://github-readme-stats-tarasbatyuchok.vercel.app/api?username=TarasBatyuchok&theme=radical&hide_border=false&include_all_commits=false&count_private=false)   ![6a418372f8b6d2744be2a8a6a20a1229 (2)](https://user-images.githubusercontent.com/57962357/215264576-03510ed5-fd37-486e-924f-74bf19bf77ff.gif)
 
-https://camo.githubusercontent.com/6b68754bfe9a1bc4abebfabc34d4701bae4fa96c73172f2788d6a4163b0ce38c/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966
+
 
 
 
