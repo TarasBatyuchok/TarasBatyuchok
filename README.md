@@ -3,6 +3,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=TarasBatyuchok&icon=8&color=10)](https://visitcount.itsvg.in)
 
+#### My CV
+- :paperclip: [My Resume/CV](https://github.com/TarasBatyuchok/TarasBatyuchok/blob/main/cv/CV_Taras_Batyuchok_.pdf)
+
 
 ### 🌐 Socials:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
