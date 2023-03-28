@@ -1,5 +1,6 @@
 ### Hi there 👋
-🖖I’m Taras, a Front-end developer from Ukraine <br>🤖Fun fact: Math.min() > Math.max() = true <br> 📎 [My Resume/CV](https://github.com/TarasBatyuchok/TarasBatyuchok/blob/main/cv/CV_Taras_Batyuchok_.pdf)
+🖖I’m Taras, a Front-end developer from Ukraine <br>  📎 [My Resume/CV](https://github.com/TarasBatyuchok/TarasBatyuchok/blob/main/cv/CV_Taras_Batyuchok_.pdf)
+<br>🤖Fun fact: Math.min() > Math.max() = true
 
 [![](https://visitcount.itsvg.in/api?id=TarasBatyuchok&icon=8&color=10)](https://visitcount.itsvg.in)
 
