@@ -18,6 +18,12 @@
 
 
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=TarasBatyuchok&label=visitors&color=10&icon=0&pretty=false" />
+</a>
+
+
+
 
 <!--  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&hide_border=false&include_all_commits=false&count_private=false) -->
