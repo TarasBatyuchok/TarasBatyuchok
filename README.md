@@ -41,9 +41,9 @@
 ![](https://github-readme-stats-tarasbatyuchok.vercel.app/api?username=TarasBatyuchok&theme=radical&hide_border=false&include_all_commits=false&count_private=false)   ![6a418372f8b6d2744be2a8a6a20a1229 (2)](https://user-images.githubusercontent.com/57962357/215264576-03510ed5-fd37-486e-924f-74bf19bf77ff.gif)
 
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TarasBatyuchok.TarasBatyuchok)
-![Visits](https://img.shields.io/badge/dynamic/json?color=6A5ACD&label=visits&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Ftarasbatyuchok.github.io%2Fvisits)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TarasBatyuchok.TarasBatyuchok)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TarasBatyuchok.TarasBatyuchok&color=7C3AED&style=flat-square&logo=eye)
+
+
 
 
 
