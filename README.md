@@ -41,6 +41,7 @@
 ![](https://github-readme-stats-tarasbatyuchok.vercel.app/api?username=TarasBatyuchok&theme=radical&hide_border=false&include_all_commits=false&count_private=false)   ![6a418372f8b6d2744be2a8a6a20a1229 (2)](https://user-images.githubusercontent.com/57962357/215264576-03510ed5-fd37-486e-924f-74bf19bf77ff.gif)
 
 
+[![](https://visitcount.itsvg.in/api?id=TarasBatyuchok&label=VISITORS&color=6A5ACD&icon=5&pretty=false)](https://github.com/TarasBatyuchok)
 
 
 
