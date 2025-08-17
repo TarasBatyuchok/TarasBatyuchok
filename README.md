@@ -4,7 +4,8 @@
 
 ### 🌐 Socials:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/starscript/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/starscript/)
+
 
 ### 💻 Tech Stack:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
